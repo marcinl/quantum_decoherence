@@ -1,0 +1,14 @@
+traces = 100, samples = 7603, dt = 2.5 us
+record length = 19.01 ms
+sigma_B (measured) = 95.1 nT
+mean field offset  = 2.46 nT
+quasi-static T2* estimate = 84.5 us
+Lorentzian fit: sigma = 134.9 nT, tau_c = 56.0 ms, S0 = 4.080e-15 T^2/Hz
+sqrt(int S df) = 81.2 nT
+PSD band = 52.6 Hz to 200.0 kHz
+CPMG scaling exponent = 0.67
+Ramsey     T2 =     71.0 +/-  0.2 us, p = 2.18 +/- 0.02, FF pred = 63.2 us
+Hahn echo  T2 =   1094.1 +/-  0.7 us, p = 2.93 +/- 0.01, FF pred = 1060.1 us
+CPMG-2     T2 =   1737.6 +/-  1.7 us, p = 2.79 +/- 0.01, FF pred = 1680.2 us
+CPMG-4     T2 =   2780.5 +/- 15.3 us, p = 2.52 +/- 0.05, FF pred = 2666.0 us
+CPMG-8     T2 =   4407.0 +/- 31.5 us, p = 2.68 +/- 0.08, FF pred = 4235.4 us

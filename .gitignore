@@ -1,0 +1,12 @@
+# macOS metadata
+.DS_Store
+
+#exclude old Matlab code
+Matlab/
+
+#exlude LaTeX artefacts
+ieee_paper_overleaf/*.log
+ieee_paper_overleaf/*.aux
+preview/*.log
+preview/*.aux
+/fig_*.pdf
